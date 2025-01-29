@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banque>
+    <compte>
+        <code>1</code>
+        <dateCreation>2024-12-10T09:04:51.253+01:00</dateCreation>
+        <solde>3200.0</solde>
+        <type>EPARGNE</type>
+    </compte>
+    <compte>
+        <code>2</code>
+        <dateCreation>2024-12-10T09:04:51.253+01:00</dateCreation>
+        <solde>400.0</solde>
+        <type>COURANT</type>
+    </compte>
+    <compte>
+        <code>3</code>
+        <dateCreation>2024-12-10T09:04:51.253+01:00</dateCreation>
+        <solde>500.0</solde>
+        <type>EPARGNE</type>
+    </compte>
+</banque>
